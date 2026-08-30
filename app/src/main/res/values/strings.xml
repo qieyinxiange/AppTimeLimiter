@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App 限时器</string>
+    <string name="accessibility_description">用于检测当前打开的应用，并在达到每日时长上限时显示拦截页。不会读取页面文字或输入内容。</string>
+</resources>
